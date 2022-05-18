@@ -9,19 +9,19 @@
 
 ✔Some tips for you
 
--🌱 I’m currently upscaling in DevOps, preparing for my AWS certification and building very **Interesting Projects**
+- 🌱 I’m currently upscaling in DevOps, preparing for my AWS certification and building very **Interesting Projects**
 
 - 👯 I’m looking to collaborate on exciting open source projects
 
--💬 Ask me about **Node, AWS, MongoDB, PostgreSQL, ReactJs, PHP, Microservices, Microcontrollers**
+- 💬 Ask me about **Node, AWS, MongoDB, PostgreSQL, ReactJs, PHP, Microservices, Microcontrollers**
 
--📝 I spend free time doing nature photography and writing poems and stories 📸 
+- 📝 I spend free time doing nature photography and writing poems and stories 📸 
 
--🩸 I am currently undertaking educational and developmental projects with <a href="https://needbefoundation.org" target="_blank">NeedBe Foundation</a> 
+- 🩸 I am currently undertaking educational and developmental projects with <a href="https://needbefoundation.org" target="_blank">NeedBe Foundation</a> 
 
--📫 Want to grab a cup a coffee and talk ? Reach me on **josephabuanor@gmail.com**
+- 📫 Want to grab a cup a coffee and talk ? Reach me on **josephabuanor@gmail.com**
 
--⚡ Fun fact: **I love Sunsets**
+- ⚡ Fun fact: **I love Sunsets**
 
 ### 🌍: Connect With Me On:
 
