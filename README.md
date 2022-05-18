@@ -75,10 +75,10 @@
 
 ### 🔥My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=josephabuanor&theme=dark&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&border=DD2727&ring=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nooby-newbie&theme=dark&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&border=DD2727&ring=DD2727)](https://git.io/streak-stats)
 
    <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephabuanor&show_icons=true&locale=en&layout=compact" alt="josephabuanor" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nooby-newbie&show_icons=true&locale=en&layout=compact" alt="josephabuanor" />
    </p> 
 </p>
 
